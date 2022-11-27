@@ -2,5 +2,6 @@
 #include <stdio.h> 
 
 int main () {
-	printf("fickle sticks!");
+	printf("NOOOOOO sticks!");
+	printf("aaa");
 }
