@@ -4,5 +4,6 @@
 int main () {
 	printf("NOOOOOO sticks!");
 	printf("aaa");
-	//this code is useless
+	//printf statements 
+	//need to add maths functionality
 }
